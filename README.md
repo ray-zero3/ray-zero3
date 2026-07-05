@@ -1,23 +1,15 @@
 <div align="center">
 
-<br />
-
 ### Rei Matsuda
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1200&color=8B5CF6&center=true&vCenter=true&width=440&height=28&lines=WebGL+%C2%B7+GLSL+%C2%B7+Shaders;Creative+coding+%C3%97+Frontend;Rust+%C2%B7+C%2B%2B+%C2%B7+Audio+%C2%B7+AI%2C+on+the+side" alt="WebGL · GLSL · Shaders / Creative coding × Frontend / Rust · C++ · Audio · AI" />
+WebGL · GLSL · Shaders · Creative coding × Frontend
 
-<sub>Creative technologist · [Konel](https://konel.jp/) · ex-Accenture Song · Japan</sub>
+Creative technologist at [Konel](https://konel.jp/) · ex-Accenture Song · Japan
+[X](https://x.com/ray_zero3) · [GitHub](https://github.com/ray-zero3)
 
-<br />
-<br />
-
-<sub>[X](https://x.com/ray_zero3) &nbsp;·&nbsp; [GitHub](https://github.com/ray-zero3)</sub>
-
-<br />
-<br />
-
-<img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ray-zero3&theme=transparent" alt="Most used languages" />
-
-<br />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ray-zero3&theme=transparent" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ray-zero3&theme=transparent&utcOffset=9" alt="Productive time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ray-zero3&theme=transparent" alt="Languages by repo" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ray-zero3&theme=transparent" alt="Most commit language" />
 
 </div>
