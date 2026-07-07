@@ -7,7 +7,6 @@ Creative Technologist
 I make things with code — web, servers, sound, visuals, circuits.
 
 Creative technologist at [Konel](https://konel.jp/) · ex-Accenture Song · Japan
-[X](https://x.com/ray_zero3) · [GitHub](https://github.com/ray-zero3)
 
 Also building [craf'te](https://github.com/craf-te) — crafting useful tools & libraries.
 
